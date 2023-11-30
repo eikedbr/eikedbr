@@ -26,6 +26,9 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&theme=midnight-purple)
  
+
+ ![monophy](https://github.com/eikedbr/eikedbr/assets/144499616/bbbf6f5a-c7a8-42b5-82d5-dfb27620fb49)
+
 <!---
 eikedbr/eikedbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
