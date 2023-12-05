@@ -27,7 +27,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikedbr&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikedbr&layout=compact)
 ## Minhas Estatísticas
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&theme=midnight-purple)
