@@ -1,4 +1,4 @@
-# Bem Vindo(a) ao meu perfil sensacional :)
+# Bem Vindo(a) ao meu perfil sensacional :) 🚀
 
 - 👋 Olá, meu nome é Eike
 - 👀 Estou interessado em aprender linguagens de programação, robótica e eletrônica.
