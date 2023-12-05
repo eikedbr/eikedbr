@@ -1,7 +1,7 @@
 # Bem Vindo(a) ao meu perfil sensacional :)
 
 - 👋 Olá, meu nome é Eike
-- 👀 Estou interessado em aprender linguagens de programação, robóica e eletrônica.
+- 👀 Estou interessado em aprender linguagens de programação, robótica e eletrônica.
 - 🌱 Atualmente estou cursando T.D.S (Curso Técnico em Desenvolvimento de Sistemas)
 - 💞️ Gostaria de colaborar com uma empresa especializada em programação ou alguma tecnologia relacionada
 - 📫 Como me encontrar:
