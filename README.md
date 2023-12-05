@@ -30,7 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikedbr&layout=compact)
 ## Minhas Estatísticas
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&theme=midnight-purple)
+ ![eikedbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&theme=midnight-purple)
  
 
  ![monophy](https://github.com/eikedbr/eikedbr/assets/144499616/bbbf6f5a-c7a8-42b5-82d5-dfb27620fb49)
