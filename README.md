@@ -4,7 +4,7 @@
 - 👀 Estou interessado em aprender linguagens de programação, robótica e eletrônica.
 - 🌱 Atualmente estou cursando T.D.S (Curso Técnico em Desenvolvimento de Sistemas)
 - 💞️ Gostaria de colaborar com uma empresa especializada em programação ou alguma tecnologia relacionada
-- 📫 Como me encontrar:
+- 📫 Como me encontrar: 
 
 ## Entre em Contato
 <div> 
