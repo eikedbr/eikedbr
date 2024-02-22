@@ -1,9 +1,16 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Eike+Stradiotti!;+I'm+16+years+old;I'm+studying+Systems+Development+Technician" />
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Eike+Stradiotti;I'm+16+years+old;I'm+from+Brazil;I'm+currently+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0a0c10" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikedbr&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0a0c10" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eikedbr&bg_color=0a0c10&color=9400D3&line=9400D3&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## Entre em Contato
+## Contact
 <div> 
   <!-- GMAIL -->
   <a href = "mailto:eikestradiotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,21 +18,29 @@
   <a href="https://www.instagram.com/Eike_Hunter_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
 
-## Habilidades
-- Linguagens de Programação
+<h2 align="center">Main Skills</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,javascript" />
+    <h2 align="center">I will start learning</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,css"
+    /><br>
+</div>
 
-  <div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> </br>
+<br/>
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eikedbr&layout=compact)
-## Minhas Estatísticas
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/eikedbr/eikedbr/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eikedbr?cardType=github&theme=github-dark&showIcons=false&preferLogin=true&Background=000000&Text=5730DD&Title=5730DD&Border=5730DD&Ring=5730DD)](https://git.io/awesome-stats-card)
- 
+<hr/>
 
  ![monophy](https://github.com/eikedbr/eikedbr/assets/144499616/bbbf6f5a-c7a8-42b5-82d5-dfb27620fb49)
 
