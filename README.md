@@ -1,10 +1,7 @@
-# Bem Vindo(a) ao meu perfil sensacional :) ☣️
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eike+Stradiotti!;+I'm+16+years+old+I'm+currently+studying+Systems+Development+Technician" />
+</h1>
 
-- 👋 Olá, meu nome é Eike
-- 👀 Estou interessado em aprender linguagens de programação, robótica e eletrônica.
-- 🌱 Atualmente estou cursando T.D.S (Curso Técnico em Desenvolvimento de Sistemas)
-- 💞️ Gostaria de colaborar com uma empresa especializada em programação ou alguma tecnologia relacionada
-- 📫 Como me encontrar: 
 
 ## Entre em Contato
 <div> 
