@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Eike+Stradiotti;I'm+16+years+old;I'm+from+Brazil;I'm+currently+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Eike+Stradiotti;I'm+17+years+old;I'm+from+Brazil;I'm+currently+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eikedbr&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0a0c10" alt="Caroline Barbosa github stats" /> 
@@ -24,14 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,javascript" />
-    <h2 align="center">I will start learning</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,css"
     /><br>
-</div>
-
-<br/>
 <hr/>
 
  ![monophy](https://github.com/eikedbr/eikedbr/assets/144499616/bbbf6f5a-c7a8-42b5-82d5-dfb27620fb49)
