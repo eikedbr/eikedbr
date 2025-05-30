@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,javascript" />
-    /><br>
+<br>
 <hr/>
 
  ![monophy](https://github.com/eikedbr/eikedbr/assets/144499616/bbbf6f5a-c7a8-42b5-82d5-dfb27620fb49)
